@@ -1,4 +1,4 @@
 -dsannotations : *
 -metatype: *
-Export-Package: io.astefanutti.metrics.aspectj
+Export-Package: io.astefanutti.metrics.aspectj.se
 Bundle-SymbolicName: ${project.artifactId}
